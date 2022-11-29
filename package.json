@@ -1,0 +1,24 @@
+{
+  "name": "a-survey-form",
+  "version": "1.0.0",
+  "description": "A functional Survey Form",
+  "main": "index.html",
+  "scripts": {
+  "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nenenj/A-survey-form.git"
+  },
+  "author": "Nnenna Njoku",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nenenj/A-survey-form/issues"
+  },
+  "homepage": "https://github.com/Nenenj/A-survey-form#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
